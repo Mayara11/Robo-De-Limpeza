@@ -4,7 +4,6 @@ Implementar um Agente Racional que limpa um quarto com o mínimo possível de a�
 
 # Conhecimento Prévio:
 • Todo o ambiente é dividido em quadrados de 4 por 4.
-
 • O agente (aspirador de pó) tem uma energia inicial de 100 pontos.
 
 • O agente pode se mover apenas para o Norte, Sul, Leste ou Oeste. Ele não pode se

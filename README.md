@@ -15,9 +15,7 @@ energia, cada aspiração custa 1 ponto de energia.
 
 • O agente possui uma bolsa que coleta sujeira. A capacidade máxima é de 10.
 
-• Após cada aspiração, o agente precisa verificar sua bolsa; se estiver cheia, ele deve
-
-voltar para Casa (localização A), esvaziar a bolsa e começar a aspirar novamente.
+• Após cada aspiração, o agente precisa verificar sua bolsa; se estiver cheia, ele deve voltar para Casa (localização A), esvaziar a bolsa e começar a aspirar novamente.
 
 # PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
 

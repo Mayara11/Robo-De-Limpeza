@@ -27,7 +27,7 @@ energia, cada aspiração custa 1 ponto de energia.
 
 •	SENSORES: Os sensores do agente permitem que ele detecte se uma localização está suja e determine sua própria posição no ambiente.
 
-| Agente | Medida de Desempenho |
-| --- | --- |
-| `git status` | A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A. O objetivo é minimizar este número de ações. |
-| `git diff` | Show file differences that **haven't been** staged |
+### Participante: 
+|name|email|present|receiveCertificate|course|
+| -------- | -------- | -------- |-------- | -------- |
+|Chaiana Hermes|chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|

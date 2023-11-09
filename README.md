@@ -1,3 +1,5 @@
+# PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
+
 PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
 
 •	MEDIDA DE DESEMPENHO: A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A. O objetivo é minimizar este número de ações.

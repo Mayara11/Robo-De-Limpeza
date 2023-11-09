@@ -27,7 +27,7 @@ energia, cada aspiração custa 1 ponto de energia.
 
 •	SENSORES: Os sensores do agente permitem que ele detecte se uma localização está suja e determine sua própria posição no ambiente.
 
-### Participante: 
+### PEAS: 
 |AGENTE |MEDIDA DE DESEMPENHO | AMBIENTE| ATUADORES | SENSORES |
 | -------- | -------- | -------- |-------- | -------- |
 |ASPIRADOR DE PÓ |chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|

@@ -1,6 +1,6 @@
 # ATIVIDADE AVALIATIVA - AGENTE RACIONAL
 
-implementar um Agente Racional que limpa um quarto com o mínimo possível de ações, e o objetivo é que todo o ambiente esteja limpo e o agente retorne ao lar (localização de início A). 
+Implementar um Agente Racional que limpa um quarto com o mínimo possível de ações, e o objetivo é que todo o ambiente esteja limpo e o agente retorne ao lar (localização de início A). 
 
 # Conhecimento Prévio:
 • Todo o ambiente é dividido em quadrados de 4 por 4.

@@ -1,6 +1,19 @@
-# PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
+# ATIVIDADE AVALIATIVA - AGENTE RACIONAL
 
-PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
+implementar um Agente Racional que limpa um quarto com o mínimo possível de ações, e o objetivo é que todo o ambiente esteja limpo e o agente retorne ao lar (localização de início A). 
+
+# Conhecimento Prévio:
+• Todo o ambiente é dividido em quadrados de 4 por 4.
+• O agente (aspirador de pó) tem uma energia inicial de 100 pontos.
+• O agente pode se mover apenas para o Norte, Sul, Leste ou Oeste. Ele não pode se
+mover diagonalmente.
+• Cada ação custa 1 ponto de energia. Por exemplo, cada movimento custa 1 ponto de
+energia, cada aspiração custa 1 ponto de energia.
+• O agente possui uma bolsa que coleta sujeira. A capacidade máxima é de 10.
+• Após cada aspiração, o agente precisa verificar sua bolsa; se estiver cheia, ele deve
+voltar para Casa (localização A), esvaziar a bolsa e começar a aspirar novamente.
+
+# PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
 
 •	MEDIDA DE DESEMPENHO: A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A. O objetivo é minimizar este número de ações.
 

@@ -30,7 +30,6 @@ energia, cada aspiração custa 1 ponto de energia.
 ### PEAS: 
 |AGENTE |MEDIDA DE DESEMPENHO | AMBIENTE| ATUADORES | SENSORES |
 | -------- | -------- | -------- |-------- | -------- |
-|ASPIRADOR DE PÓ |A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A
-                  . O objetivo é minimizar este número de ações.|
+|ASPIRADOR DE PÓ |A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A. O objetivo é minimizar este número de ações.| O ambiente consiste em um quarto com varias localizações (de A a P). Cada localização pode estar limpa ou suja.
 
 |true|false|Bootcamp React|

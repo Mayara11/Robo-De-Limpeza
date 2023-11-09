@@ -18,6 +18,7 @@ energia, cada aspiração custa 1 ponto de energia.
 • Após cada aspiração, o agente precisa verificar sua bolsa; se estiver cheia, ele deve voltar para Casa (localização A), esvaziar a bolsa e começar a aspirar novamente.
 
 <h1 align="center"> PARTE A </h1>
+
 # PEAS (Medida de Desempenho, Ambiente, Atuadores e Sensores).
 
 |AGENTE |MEDIDA DE DESEMPENHO | AMBIENTE| ATUADORES | SENSORES |

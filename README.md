@@ -26,3 +26,9 @@ energia, cada aspiração custa 1 ponto de energia.
 •	ATUADORES: Os atuadores do agente podem ser definidos como a capacidade de mover-se para diferentes localizações (motor) e um aspirador para limpar a sujeira e retornar a localização de início A.
 
 •	SENSORES: Os sensores do agente permitem que ele detecte se uma localização está suja e determine sua própria posição no ambiente.
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |

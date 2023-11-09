@@ -23,7 +23,7 @@ energia, cada aspiração custa 1 ponto de energia.
 | -------- | -------- | -------- |-------- | -------- |
 |ASPIRADOR DE PÓ |A medida de desempenho é o numero de ações necessária para limpar todo o ambiente e retornar à localização de inicio A. O objetivo é minimizar este número de ações.| O ambiente consiste em um quarto com varias localizações (de A a P). Cada localização pode estar limpa ou suja.| Os atuadores do agente podem ser definidos como a capacidade de mover-se para diferentes localizações (motor) e um aspirador para limpar a sujeira e retornar a localização de início A. | Os sensores do agente permitem que ele detecte se uma localização está suja e determine sua própria posição no ambiente.
 
-### NOMES:
+### EQUIPE:
 1. CAMILLE JULIA
 2. JOÃO PEDRO
 3. LUIZE

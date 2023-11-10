@@ -29,5 +29,5 @@ energia, cada aspiração custa 1 ponto de energia.
 1. CAMILLE JULIA
 2. JOÃO PEDRO
 3. LUIZE
-4. MAYARA TORRES
+4. Mayara Torres
 
